@@ -1,7 +1,7 @@
 
-<h1 align="center" color="#0057b8">Hi there, I'm <a href="https://www.linkedin.com/in/andrew-lotoskiy-340365206" target="_blank">Andrew</a> 
+<h1 align="center" style="color:'#0057b8'" >Hi there, I'm <a href="https://www.linkedin.com/in/andrew-lotoskiy-340365206" target="_blank">Andrew</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center" color="#ffd700">Frontend Developer / React Developer from Ukraine</h3>
+<h3 align="center" style="color:'#ffd700'">Frontend Developer / React Developer from Ukraine</h3>
 
 <!--
 **lawless1213/lawless1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
