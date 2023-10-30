@@ -1,5 +1,7 @@
 
-![image](https://github.com/lawless1213/lawless1213/assets/45605981/4d28104b-ec6d-4f8f-8493-d06292168f5f)
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/andrew-lotoskiy-340365206/" target="_blank">Andrew</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Frontend Developer / React Developer from Ukraine 🇺🇦</h3>
 
 <!--
 **lawless1213/lawless1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
